@@ -24,7 +24,9 @@ public class Main {
         
         p = g; //Polimorfisme
         p.tampilData(); //VMI
+        p.run();
         g.tampilData();
+        g.run();
         
         //Heterogeneus Collection
         PerangkatKeras[] arrPK = new PerangkatKeras[4];
