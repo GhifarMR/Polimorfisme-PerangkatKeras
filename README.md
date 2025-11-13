@@ -22,9 +22,9 @@ Proyek ini menampilkan penerapan enam konsep utama:
 Program terdiri dari:
 - **Superclass**: `PerangkatKeras`
 - **Subclass**:  
-  - `CPU`
   - `GPU`
   - `RAM`
+  - `SSD`
   - `MOTHERBOARD`
 
 ## 📄 Diagram UML
