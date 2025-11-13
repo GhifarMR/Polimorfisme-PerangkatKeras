@@ -1,7 +1,7 @@
 # Implementasi Polimorfisme – Studi Kasus Perangkat Keras
 
 ## 📘 Deskripsi Proyek
-Proyek ini dibuat untuk memenuhi tugas **Konsentrasi Keahlian Rekayasa Perangkat Lunak** pada elemen *Pemrograman Berbasis Teks, Grafis, dan Multimedia*.  
+Proyek ini dibuat untuk memenuhi tugas **Konsentrasi Keahlian Rekayasa Perangkat Lunak** pada mata pelajaran *Pemrograman Berbasis Teks, Grafis, dan Multimedia*.  
 Tujuan proyek ini adalah untuk mengimplementasikan konsep **Polimorfisme** dalam pemrograman berorientasi objek menggunakan **Java**, dengan studi kasus bertema **Perangkat Keras**.
 
 ## 👥 Anggota Kelompok
