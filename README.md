@@ -28,7 +28,7 @@ Program terdiri dari:
   - `MOTHERBOARD`
 
 ## 📄 Diagram UML
-
+https://github.com/GhifarMR/Polimorfisme-PerangkatKeras/blob/main/UMLPerangkatKeras.jpg
 
 ## ⚙️ Konsep Polimorfisme
 
