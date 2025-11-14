@@ -5,9 +5,9 @@ Proyek ini dibuat untuk memenuhi tugas **Konsentrasi Keahlian Rekayasa Perangkat
 Tujuan proyek ini adalah untuk mengimplementasikan konsep **Polimorfisme** dalam pemrograman berorientasi objek menggunakan **Java**, dengan studi kasus bertema **Perangkat Keras**.
 
 ## 👥 Anggota Kelompok
+- Danish Dhiahurrahman    (8)
 - Ghifar Maulana Ristyono (13)
 - Ilham Rangga Kurniawan  (15)
-- Danish Dhiahurrahman    (8)
 
 ## 🧩 Konsep yang Diterapkan
 Proyek ini menampilkan penerapan enam konsep utama:
