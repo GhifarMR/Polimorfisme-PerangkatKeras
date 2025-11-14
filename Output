@@ -1,0 +1,42 @@
+run:
+NAMA : RTX 5070
+MEREK : Nvidia
+HARGA : 10000000
+cudaCores : 6144 inti CUDA
+RTX 5070 BERJALAN..
+NAMA : RTX 5070
+MEREK : Nvidia
+HARGA : 10000000
+cudaCores : 6144 inti CUDA
+RTX 5070 BERJALAN..
+==== DAFTAR PERANGKAT KERAS ====
+NAMA : RTX 5070
+MEREK : Nvidia
+HARGA : 10000000
+cudaCores : 6144 inti CUDA
+================================
+NAMA : Vengeance DDR5
+MEREK : Corsair
+HARGA : 800000
+SPEED : 7200 MHz
+TYPE : DDR5
+================================
+NAMA : 980 PRO
+MEREK : Samsung
+HARGA : 1500000
+STORAGE : 1000 GB
+================================
+NAMA : b650
+MEREK : Asrock
+HARGA : 2000000
+JUMLAH PCIE LANE : 32
+================================
+Total harga GPU (RTX 5070) = Rp 10000000
+
+Total harga RAM (Vengeance DDR5) = Rp 800000
+
+Total harga SSD (980 PRO) = Rp 1500000
+
+Total harga MOTHERBOARD (b650) = Rp 2000000
+
+BUILD SUCCESSFUL (total time: 0 seconds)
