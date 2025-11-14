@@ -22,13 +22,12 @@ public class Main {
         g.harga = 10000000;
         g.cudaCores = 6144;
         
-        p = g; //Polimorfisme
-        p.tampilData(); //VMI
+        p = g;
+        p.tampilData();
         p.run();
         g.tampilData();
         g.run();
         
-        //Heterogeneus Collection
         PerangkatKeras[] arrPK = new PerangkatKeras[4];
         
         RAM r = new RAM();
